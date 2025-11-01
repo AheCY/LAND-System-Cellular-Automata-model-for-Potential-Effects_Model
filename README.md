@@ -6,9 +6,9 @@ Download directly via the raw URL:
  ## Main interface
 ![mian_interface](main.png)
 
- ## Workspace
+ ## ①Workspace
 ![workspace](workspace.png)
 
-## Parameter configuration
+## ⑤Transition_potential
 ![transition_potential](transition_potential.png)
 
