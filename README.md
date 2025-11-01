@@ -5,3 +5,10 @@ Download directly via the raw URL:
 
  ## Main interface
 ![mian_interface](main.png)
+
+ ## Workspace
+![workspace](workspace.png)
+
+## Parameter configuration
+![parameter_configuration](parameter_configuration.png)
+
