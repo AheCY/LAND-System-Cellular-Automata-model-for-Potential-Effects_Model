@@ -3,4 +3,4 @@ LAND-System-Cellular-Automata-model-for-Potential-Effects-Model
 Download directly via the raw URL:  
   [LANDSCAPE-F.exe](https://github.com/AheCY/LAND-System-Cellular-Automata-model-for-Potential-Effects-Model/releases/download/V2.0/LANDSCAPE-F.exe)
 
-  ![1](1.png)
+  ![2](1.png)
