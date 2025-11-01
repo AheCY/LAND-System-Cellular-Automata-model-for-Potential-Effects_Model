@@ -10,5 +10,5 @@ Download directly via the raw URL:
 ![workspace](workspace.png)
 
 ## Parameter configuration
-![parameter_configuration](parameter_configuration.png)
+![parameter_configuration](transition_potential.png)
 
